@@ -1,0 +1,172 @@
+{
+    "contacts": [
+      {
+        "id": "ca1",
+        "name": "Al Pacinos",
+        "email": "Sincere@april.biz",
+        "photo": "https://pbs.twimg.com/media/EWdqgiwUEAA41vI.jpg",
+        "mobile": "2063428631",
+        "company": "Romaguera-Crona",
+        "title": "American actor",
+        "groupId": "1"
+      },
+      {
+        "id": "ca2",
+        "name": "Robert De Niro",
+        "email": "Shanna@melissa.tv",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/1990_Venice_Film_Festival_Robert_De_Niro.jpg/640px-1990_Venice_Film_Festival_Robert_De_Niro.jpg",
+        "mobile": "8848933511",
+        "company": "Deckow-Crist",
+        "title": "Singer",
+        "groupId": "4"
+      },
+      {
+        "id": "ca3",
+        "name": "Martin Scorsese",
+        "email": "Nathan@yesenia.net",
+        "photo": "https://m.media-amazon.com/images/I/61zJ9hHQV4L._AC_UF894,1000_QL80_.jpg",
+        "mobile": "(248) 762-0356",
+        "company": "Romaguera-Jacobson",
+        "title": "American film director",
+        "groupId": "3"
+      },
+      {
+        "id": "ca4",
+        "name": "Quentin Tarantino",
+        "email": "Julianne.OConner@kory.org",
+        "photo": "https://www.hollywoodreporter.com/wp-content/uploads/2014/01/ap640961074719.jpg",
+        "mobile": "(253) 644-2182",
+        "company": "Robel-Corkery",
+        "title": "American film director",
+        "groupId": "4"
+      },
+      {
+        "id": "ca5",
+        "name": "Leonardo DiCaprio",
+        "email": "Lucio_Hettinger@annie.ca",
+        "photo": "https://www.themoviedb.org/t/p/w500/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg",
+        "mobile": "(212) 658-3916",
+        "company": "Keebler LLC",
+        "title": "Actor",
+        "groupId": "1"
+      },
+      {
+        "id": "ca6",
+        "name": "Christopher Nolan",
+        "email": "Karley_Dach@jasper.info",
+        "photo": "https://m.media-amazon.com/images/M/MV5BNjE3NDQyOTYyMV5BMl5BanBnXkFtZTcwODcyODU2Mw@@._V1_FMjpg_UX1000_.jpg",
+        "mobile": "(201) 874-8593",
+        "company": "Considine-Lockman",
+        "title": "British-American filmmaker",
+        "groupId": "2"
+      },
+      {
+        "id": "ca7",
+        "name": "Uma Thurman",
+        "email": "Telly.Hoeger@billy.biz",
+        "photo": "https://live.staticflickr.com/65535/50851169093_6aeafd89a8_b.jpg",
+        "mobile": "9876543210",
+        "company": "Johns Group",
+        "title": "Actress",
+        "groupId": "3"
+      },
+      {
+        "id": "ca8",
+        "name": "Samuel L. Jackson",
+        "email": "Sherwood@rosamond.me",
+        "photo": "https://cdn.britannica.com/77/191077-050-63262B99/Samuel-L-Jackson.jpg",
+        "mobile": "9876543210",
+        "company": "Abernathy Group",
+        "title": "Actor",
+        "groupId": "4"
+      },
+      {
+        "groupId": "4",
+        "mobile": "(234) 109-6666",
+        "id": "ca9",
+        "name": "Bruce Willis",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_QL75_UY207_CR18,0,140,207_.jpg",
+        "email": "brucewill@hotmail",
+        "company": "UFO",
+        "title": "Actor"
+      },
+      {
+        "groupId": "4",
+        "id": "ca10",
+        "name": "Brad Pitt",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brad_Pitt_2019_by_Glenn_Francis.jpg/1200px-Brad_Pitt_2019_by_Glenn_Francis.jpg",
+        "mobile": "(262) 162-1585",
+        "email": "bradhere@gmail.com",
+        "company": "Tarantino",
+        "title": "American Actor"
+      },
+      {
+        "groupId": "4",
+        "id": "ca11",
+        "name": "Tim Roth",
+        "mobile": "(212) 658-3916",
+        "photo": "https://www.themoviedb.org/t/p/w500/qSizF2i9gz6c6DbAC5RoIq8sVqX.jpg",
+        "email": "timberlee@hotmail",
+        "company": "Jks",
+        "title": "English Actor"
+      },
+      {
+        "groupId": "4",
+        "id": "ca12",
+        "name": "Mélanie Laurent",
+        "mobile": "(717) 550-1675",
+        "photo": "https://nettv4u.com/imagine/27-08-2017/melanie-laurent.jpg",
+        "email": "laurentfkl@sfsd",
+        "company": "Tarantino",
+        "title": "Actress"
+      },
+      {
+        "groupId": "4",
+        "id": "ca13",
+        "name": "Christoph Waltz",
+        "mobile": "(248) 762-0356",
+        "photo": "https://flxt.tmsimg.com/assets/171314_v9_bb.jpg",
+        "email": "waltx@sdmfvkdsfv",
+        "company": "Tarantino",
+        "title": "Actor"
+      },
+      {
+        "groupId": "4",
+        "name": "Steven Spielberg",
+        "id": "ca14",
+        "mobile": "(209) 300-2557",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/6/67/Steven_Spielberg_by_Gage_Skidmore.jpg",
+        "email": "ghosty@jhghff",
+        "company": "spielberg",
+        "title": "American film director"
+      },
+      {
+        "groupId": "3",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/1/10/Zayn_Wiki_%28cropped%29.jpg",
+        "id": "ca34",
+        "name": "Zayn Malik",
+        "mobile": "8888888888",
+        "email": "dfvdv@dfvd",
+        "company": "dfvdfv",
+        "title": "dfvdf"
+      }
+    ],
+    "groups": [
+      {
+        "id": "1",
+        "name": "Friends"
+      },
+      {
+        "id": "2",
+        "name": "Family"
+      },
+      {
+        "id": "3",
+        "name": "Collegues"
+      },
+      {
+        "id": "4",
+        "name": "Social"
+      }
+    ]
+  }
